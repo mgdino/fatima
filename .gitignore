@@ -1,0 +1,4 @@
+node_modules/*
+src/firebase.js
+build/static/js/main.a21e87e6.js.map
+build/static/js/main.a21e87e6.js
